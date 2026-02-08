@@ -2,7 +2,7 @@
 
 [🥇 Ver anterior competencia (Preselección)](https://github.com/JuanPabloMendozaLopez/worldskills-preseleccion-2025)
 
-[🥇 Ver siguiente competencia (Américas)](https://github.com/JuanPabloMendozaLopez/worldskills-preseleccion-2025)
+[🥇 Ver siguiente competencia (Américas)](https://github.com/JuanPabloMendozaLopez/worldskills-americas-2025)
 
 [📰 Noticias](https://www.elheraldo.co/la-guajira/2025/10/09/aprendiz-del-sena-la-guajira-representara-a-colombia-en-worldskills-shanghai-2026/)
 
@@ -78,6 +78,7 @@ Para preguntas, soporte o colaboración, por favor contacta:
 -   Correo: [mendozalopez.py@gmail.com](mailto:mendozalopez.py@gmail.com)
 -   LinkedIn: [Juan Pablo Mendoza Lopez](https://www.linkedin.com/in/juan-pablo-mendoza-lopez/)
 -   GitHub: [@JuanPabloMendozaLopez](https://github.com/JuanPabloMendozaLopez)
+
 
 
 
