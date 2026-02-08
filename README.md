@@ -8,6 +8,8 @@ La competencia se llevó a cabo durante **tres jornadas intensivas**, en las que
 
 El evento contó con la participación de **los cinco mejores competidores del país**. Durante las pruebas, me enfrenté directamente a cada uno de ellos, logrando un desempeño sólido y consistente a lo largo de toda la competencia.
 
+<br>
+
 <div align="center">
 
 ![WorldSkills Colombia 2025](https://img.shields.io/badge/WorldSkills-Colombia_2025-005EB8?style=for-the-badge)
@@ -15,12 +17,16 @@ El evento contó con la participación de **los cinco mejores competidores del p
 
 </div>
 
+<br>
+
 ## 📚 Tabla de Contenidos
 
 - [🏅 Highlights de la Competencia](#-highlights-de-la-competencia)
 - [📁 Estructura del Repositorio](#-estructura-del-repositorio)
 - [🎯 Descripcion de la Competencia](#-descripcion-de-la-competencia)
 - [📬 Contacto](#-contacto)
+
+<br>
 
 ## 🏅 Highlights de la Competencia
 
@@ -40,7 +46,7 @@ El evento contó con la participación de **los cinco mejores competidores del p
 
 </div>
 
----
+<br>
 
 ## 📁 Estructura del Repositorio
 
@@ -50,7 +56,21 @@ worldskills-colombia-2025/
 └── README.md                   # Documentación principal del repositorio
 ```
 
----
+<br>
+
+## 🎯 Descripcion de la Competencia  
+
+<br>
+
+## 📬 Contacto
+
+Para preguntas, soporte o colaboración, por favor contacta:
+
+-   Juan Pablo Mendoza Lopez
+-   Correo: [mendozalopez.py@gmail.com](mailto:mendozalopez.py@gmail.com)
+-   LinkedIn: [Juan Pablo Mendoza Lopez](https://www.linkedin.com/in/juan-pablo-mendoza-lopez/)
+-   GitHub: [@JuanPabloMendozaLopez](https://github.com/JuanPabloMendozaLopez)
+
 
 
 
