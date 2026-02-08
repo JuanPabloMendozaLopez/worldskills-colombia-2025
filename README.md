@@ -17,7 +17,26 @@ El evento contó con la participación de **los cinco mejores competidores del p
 
 ## 📚 Tabla de Contenidos
 
-- [🏅 Highlights de la Competencia](https://www.notion.so/30141d1b05fe80239352e7cfafba67ee?pvs=21)
+- [🏅 Highlights de la Competencia](#-highlights-de-la-competencia)
 - [📁 Estructura del Repositorio](https://www.notion.so/30141d1b05fe80239352e7cfafba67ee?pvs=21)
 - [🎯 Descripcion de la Competencia](https://www.notion.so/30141d1b05fe80239352e7cfafba67ee?pvs=21)
 - [📬 Contacto](https://www.notion.so/30141d1b05fe80239352e7cfafba67ee?pvs=21)
+
+## 🏅 Highlights de la Competencia
+
+<div align="center">
+
+  <img src="docs/images/delegacion-1.jpg" alt="Ceremonia Nacional" width="400" style="object-fit: cover; border-radius: 8px; margin: 10px;">
+  
+  _Delegación del la Guajira 2025_
+  
+  <img src="docs/images/competencia-2.jpg" alt="Competencia Nacional" width="400" style="object-fit: cover; border-radius: 8px; margin: 10px;">
+  
+  _Durante la ejecución de las pruebas técnicas en la competencia nacional_
+  
+  <img src="docs/images/delegacion-2.jpg" alt="Clausura Nacional" width="400" style="object-fit: cover; border-radius: 8px; margin: 10px;">
+  
+  _Logros obtenidos por la Guajira._
+
+</div>
+
