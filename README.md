@@ -42,11 +42,15 @@ El evento contó con la participación de **los cinco mejores competidores del p
 
   <img src="docs/images/delegacion-1.jpg" alt="Ceremonia Nacional" width="400" style="object-fit: cover; border-radius: 8px; margin: 10px;">
   
-  _Delegación del la Guajira 2025_
+  _Delegación de la Guajira 2025_
+
+  <br>
   
   <img src="docs/images/competencia-2.jpg" alt="Competencia Nacional" width="400" style="object-fit: cover; border-radius: 8px; margin: 10px;">
   
   _Durante la ejecución de las pruebas técnicas en la competencia nacional_
+
+  <br>
   
   <img src="docs/images/delegacion-2.jpg" alt="Clausura Nacional" width="400" style="object-fit: cover; border-radius: 8px; margin: 10px;">
   
@@ -82,6 +86,36 @@ Para el desarrollo de la prueba solo se permitió Visual Studio o NetBeans como 
 
 ---
 
+### Segundo modulo - ...
+
+...
+
+[Ver detalles de la prueba]()
+
+---
+
+### Tercer modulo - ...
+
+...
+
+[Ver detalles de la prueba]()
+
+---
+
+### Cuarto modulo - ...
+
+...
+
+[Ver detalles de la prueba]()
+
+---
+
+### Quinto modulo - ...
+
+...
+
+[Ver detalles de la prueba]()
+
 <br>
 
 ## 📬 Contacto
@@ -92,6 +126,7 @@ Para preguntas, soporte o colaboración, por favor contacta:
 -   Correo: [mendozalopez.py@gmail.com](mailto:mendozalopez.py@gmail.com)
 -   LinkedIn: [Juan Pablo Mendoza Lopez](https://www.linkedin.com/in/juan-pablo-mendoza-lopez/)
 -   GitHub: [@JuanPabloMendozaLopez](https://github.com/JuanPabloMendozaLopez)
+
 
 
 
