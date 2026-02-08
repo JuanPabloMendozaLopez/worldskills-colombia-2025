@@ -68,6 +68,20 @@ worldskills-colombia-2025/
 
 ## 🎯 Descripcion de la Competencia  
 
+https://github.com/user-attachments/assets/0dcc5346-13d6-49c8-b46f-102adf9a738f
+
+Para el desarrollo de la prueba solo se permitió Visual Studio o NetBeans como IDE, sin extensiones, y con un limitado uso de internet por módulo (máximo de 5 minutos).
+
+---
+
+### Primer modulo - ...
+
+...
+
+[Ver detalles de la prueba]()
+
+---
+
 <br>
 
 ## 📬 Contacto
@@ -78,6 +92,7 @@ Para preguntas, soporte o colaboración, por favor contacta:
 -   Correo: [mendozalopez.py@gmail.com](mailto:mendozalopez.py@gmail.com)
 -   LinkedIn: [Juan Pablo Mendoza Lopez](https://www.linkedin.com/in/juan-pablo-mendoza-lopez/)
 -   GitHub: [@JuanPabloMendozaLopez](https://github.com/JuanPabloMendozaLopez)
+
 
 
 
