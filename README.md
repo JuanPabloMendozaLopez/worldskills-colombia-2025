@@ -40,3 +40,16 @@ El evento contó con la participación de **los cinco mejores competidores del p
 
 </div>
 
+---
+
+## 📁 Estructura del Repositorio
+
+```bash
+worldskills-colombia-2025/
+├── docs/                       # Documentacion e información de la competencia
+└── README.md                   # Documentación principal del repositorio
+```
+
+---
+
+
