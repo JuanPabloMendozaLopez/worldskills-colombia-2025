@@ -14,3 +14,10 @@ El evento contó con la participación de **los cinco mejores competidores del p
 ![Habilidad 09 - Desarrollo de Software](https://img.shields.io/badge/Habilidad-Desarrollo_de_Software-orange?style=for-the-badge)
 
 </div>
+
+## 📚 Tabla de Contenidos
+
+- [🏅 Highlights de la Competencia](https://www.notion.so/30141d1b05fe80239352e7cfafba67ee?pvs=21)
+- [📁 Estructura del Repositorio](https://www.notion.so/30141d1b05fe80239352e7cfafba67ee?pvs=21)
+- [🎯 Descripcion de la Competencia](https://www.notion.so/30141d1b05fe80239352e7cfafba67ee?pvs=21)
+- [📬 Contacto](https://www.notion.so/30141d1b05fe80239352e7cfafba67ee?pvs=21)
