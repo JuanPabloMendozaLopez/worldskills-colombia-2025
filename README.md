@@ -1,5 +1,11 @@
 # Worldskills Colombia 2025 **– 🥇 Oro Nacional en Desarrollo de Software**
 
+[🥇 Ver anterior competencia (Preseleccion)](https://github.com/JuanPabloMendozaLopez/worldskills-preseleccion-2025)
+
+[📰 Noticias](https://www.elheraldo.co/la-guajira/2025/10/09/aprendiz-del-sena-la-guajira-representara-a-colombia-en-worldskills-shanghai-2026/)
+
+<br>
+
 ![Podio](./docs/images/podio.jpg)
 
 Este repositorio reúne el trabajo desarrollado durante mi **participación en la competencia nacional WorldSkills Colombia 2025**, en la **habilidad 09 – Desarrollo de Software**, donde obtuve **el primer lugar a nivel nacional**.
@@ -70,6 +76,7 @@ Para preguntas, soporte o colaboración, por favor contacta:
 -   Correo: [mendozalopez.py@gmail.com](mailto:mendozalopez.py@gmail.com)
 -   LinkedIn: [Juan Pablo Mendoza Lopez](https://www.linkedin.com/in/juan-pablo-mendoza-lopez/)
 -   GitHub: [@JuanPabloMendozaLopez](https://github.com/JuanPabloMendozaLopez)
+
 
 
 
