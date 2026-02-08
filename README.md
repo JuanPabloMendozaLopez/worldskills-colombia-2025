@@ -18,9 +18,9 @@ El evento contó con la participación de **los cinco mejores competidores del p
 ## 📚 Tabla de Contenidos
 
 - [🏅 Highlights de la Competencia](#-highlights-de-la-competencia)
-- [📁 Estructura del Repositorio](https://www.notion.so/30141d1b05fe80239352e7cfafba67ee?pvs=21)
-- [🎯 Descripcion de la Competencia](https://www.notion.so/30141d1b05fe80239352e7cfafba67ee?pvs=21)
-- [📬 Contacto](https://www.notion.so/30141d1b05fe80239352e7cfafba67ee?pvs=21)
+- [📁 Estructura del Repositorio](#-estructura-del-repositorio)
+- [🎯 Descripcion de la Competencia](#-descripcion-de-la-competencia)
+- [📬 Contacto](#-contacto)
 
 ## 🏅 Highlights de la Competencia
 
@@ -51,5 +51,6 @@ worldskills-colombia-2025/
 ```
 
 ---
+
 
 
