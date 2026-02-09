@@ -87,7 +87,7 @@ Para el desarrollo de la prueba solo se permitió Visual Studio o NetBeans como 
 
 Creación de base de datos, importación de encuestas y generación de informes resumidos y detallados.
 
-[Ver detalles de la prueba]()
+[Ver detalles de la prueba](./modulo-1/README.md)
 
 ---
 
@@ -95,7 +95,7 @@ Creación de base de datos, importación de encuestas y generación de informes 
 
 Diseño de base de datos escolar, manejo de roles, autenticación, permisos y formularios administrativos.
 
-[Ver detalles de la prueba]()
+[Ver detalles de la prueba](./modulo-2/README.md)
 
 ---
 
@@ -103,7 +103,7 @@ Diseño de base de datos escolar, manejo de roles, autenticación, permisos y fo
 
 Desarrollo de app Android para pedidos, estados de platos y control de procesos de cocción mediante API.
 
-[Ver detalles de la prueba]()
+[Ver detalles de la prueba](./modulo-3/README.md)
 
 ---
 
@@ -111,7 +111,7 @@ Desarrollo de app Android para pedidos, estados de platos y control de procesos 
 
 Aplicación para administración de vehículos, edición, eliminación y sistema de notificaciones.
 
-[Ver detalles de la prueba]()
+[Ver detalles de la prueba](./modulo-4/README.md)
 
 ---
 
@@ -119,7 +119,7 @@ Aplicación para administración de vehículos, edición, eliminación y sistema
 
 Sistema móvil con autenticación, gestión de usuarios, partidos, selecciones y jugadores usando API.
 
-[Ver detalles de la prueba]()
+[Ver detalles de la prueba](./modulo-5/README.md)
 
 <br>
 
@@ -131,6 +131,7 @@ Para preguntas, soporte o colaboración, por favor contacta:
 -   Correo: [mendozalopez.py@gmail.com](mailto:mendozalopez.py@gmail.com)
 -   LinkedIn: [Juan Pablo Mendoza Lopez](https://www.linkedin.com/in/juan-pablo-mendoza-lopez/)
 -   GitHub: [@JuanPabloMendozaLopez](https://github.com/JuanPabloMendozaLopez)
+
 
 
 
