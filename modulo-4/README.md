@@ -2,7 +2,7 @@
 
 [🔙 Volver al inicio](../README.md#-descripcion-de-la-competencia)
 
-[📄 Ver documento](./docs/WS2025_TP09_S4.pdf)
+[📄 Ver documento](./docs/WSC_TP09_S4.pdf)
 
 <br>
 
@@ -13,4 +13,5 @@ La prueba requería la creación de una aplicación con una interfaz de usuario 
 ## Desempeño Personal
 
 Para esta prueba se asignó un tiempo total de dos horas. Logré completar la totalidad del proyecto en una hora y media, asegurando que todas las funcionalidades principales estuvieran operativas y cumplieran con los requisitos especificados. Honestamente, no encontré mayores complicaciones durante el desarrollo de la aplicación, ya que en comparación con los tres módulos anteriores, este no suponía un reto de mayor envergadura. Esta familiaridad con el tipo de desarrollo solicitado me permitió finalizar el proyecto considerablemente antes del tiempo límite establecido.
+
 
