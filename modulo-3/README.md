@@ -2,7 +2,7 @@
 
 [🔙 Volver al inicio](../README.md#-descripcion-de-la-competencia)
 
-[📄 Ver documento](./docs/WS2025_TP09_S3.pdf)
+[📄 Ver documento](./docs/WSC_TP09_S3.pdf)
 
 <br>
 
@@ -13,4 +13,5 @@ La prueba requería conectar la aplicación con una base de datos a través de u
 ## Desempeño Personal
 
 Para esta prueba contamos con un tiempo de dos horas y media. Logré avanzar a muy buen ritmo y completar casi la totalidad del proyecto, asegurando que las funciones principales de gestión de pedidos y estados estuvieran operativas. En la segunda pantalla, aunque logré que se mostraran todos los platos de la orden correctamente, me faltaron por pulir algunos detalles específicos de los datos de cada plato debido al límite de tiempo. A pesar de esos pequeños puntos pendientes, el sistema quedó funcional y cumplió con el flujo principal solicitado.
+
 
