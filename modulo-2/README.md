@@ -12,5 +12,6 @@ La prueba exigía trabajar con archivos de datos externos (formato CSV) e import
 
 ## Desempeño Personal
 
-La experiencia previa en la primera competencia fue clave para afrontar la notable complejidad de este proyecto. Gracias a esa preparación, pude adaptarme perfectamente y completar la totalidad de los requisitos del primer modulo sin inconvenientes. Un logro particularmente destacable fue la implementación exitosa de la funcionalidad para importar archivos CSV directamente a la base de datos a través de la aplicación, una característica que, según se observó, solo yo logré poner en funcionamiento.
+La experiencia previa en la primera competencia fue clave para afrontar la notable complejidad de este proyecto. Gracias a esa preparación, pude adaptarme perfectamente y completar la totalidad de los requisitos del modulo propuesto sin inconvenientes. Un logro particularmente destacable fue la implementación exitosa de la funcionalidad para importar archivos CSV directamente a la base de datos a través de la aplicación, una característica que, según se observó, solo yo logré poner en funcionamiento.
+
 
