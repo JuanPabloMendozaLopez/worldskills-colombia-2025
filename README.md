@@ -65,6 +65,11 @@ El evento contó con la participación de **los cinco mejores competidores del p
 ```bash
 worldskills-colombia-2025/
 ├── docs/                       # Documentacion e información de la competencia
+├── modulo-1/                   # Módulo 1 – Análisis de Datos y Reportes de Encuestas
+├── modulo-2/                   # Módulo 2 – Gestión Escolar y Control de Usuarios
+├── modulo-3/                   # Módulo 3 – Gestión de Pedidos y Cocción (Aplicación Móvil)
+├── modulo-4/                   # Módulo 4 – Gestión de Vehículos y Notificaciones
+├── modulo-5/                   # Módulo 5 – Aplicación Móvil de Resultados FIFA
 └── README.md                   # Documentación principal del repositorio
 ```
 
@@ -78,41 +83,41 @@ Para el desarrollo de la prueba solo se permitió Visual Studio o NetBeans como 
 
 ---
 
-### Primer modulo - ...
+### Primer modulo – Análisis de Datos y Reportes de Encuestas
 
-...
-
-[Ver detalles de la prueba]()
-
----
-
-### Segundo modulo - ...
-
-...
+Creación de base de datos, importación de encuestas y generación de informes resumidos y detallados.
 
 [Ver detalles de la prueba]()
 
 ---
 
-### Tercer modulo - ...
+### Segundo modulo – Gestión Escolar y Control de Usuarios
 
-...
-
-[Ver detalles de la prueba]()
-
----
-
-### Cuarto modulo - ...
-
-...
+Diseño de base de datos escolar, manejo de roles, autenticación, permisos y formularios administrativos.
 
 [Ver detalles de la prueba]()
 
 ---
 
-### Quinto modulo - ...
+### Tercer modulo – Gestión de Pedidos y Cocción (Aplicación Móvil)
 
-...
+Desarrollo de app Android para pedidos, estados de platos y control de procesos de cocción mediante API.
+
+[Ver detalles de la prueba]()
+
+---
+
+### Cuarto modulo – Gestión de Vehículos y Notificaciones
+
+Aplicación para administración de vehículos, edición, eliminación y sistema de notificaciones.
+
+[Ver detalles de la prueba]()
+
+---
+
+### Quinto modulo – Aplicación Móvil de Resultados FIFA
+
+Sistema móvil con autenticación, gestión de usuarios, partidos, selecciones y jugadores usando API.
 
 [Ver detalles de la prueba]()
 
@@ -126,6 +131,7 @@ Para preguntas, soporte o colaboración, por favor contacta:
 -   Correo: [mendozalopez.py@gmail.com](mailto:mendozalopez.py@gmail.com)
 -   LinkedIn: [Juan Pablo Mendoza Lopez](https://www.linkedin.com/in/juan-pablo-mendoza-lopez/)
 -   GitHub: [@JuanPabloMendozaLopez](https://github.com/JuanPabloMendozaLopez)
+
 
 
 
